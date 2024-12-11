@@ -18,7 +18,15 @@ AtliQo, one of India's leading telecom providers, launched its 5G plans in May 2
 - **DAX**: Used for creating custom measures and calculations within Power BI.
 
 ## Data Model
-*I will paste screenshot here.*
+![image](https://github.com/user-attachments/assets/19681805-d3d3-45cf-a6df-88968cbdbec5)
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/c395f1fc-9895-404d-9fe6-6786d7e59fe4)
+![image](https://github.com/user-attachments/assets/32de8112-6762-4983-bfa2-884ca60721e7)
+![image](https://github.com/user-attachments/assets/d5a85594-d2b7-4e76-96fd-4a741023136b)
+
+
+
 
 ## Metrics Calculated
 - **Customer Churn Rate**: Proportion of customers who have stopped using services.
